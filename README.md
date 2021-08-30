@@ -1,3 +1,3 @@
-`mvn clean compile dependency:tree` outputs  `org.xerial.snappy:snappy-java:jar:1.1.4:compile`  
+Requires java-1.8
 
-`mvn clean package dependency:tree` outputs `org.xerial.snappy:snappy-java:jar:1.1.7.2:compile` and `org.xerial.snappy:snappy-java:jar:1.1.4:compile`
+sample project for https://issues.apache.org/jira/browse/MDEP-762
